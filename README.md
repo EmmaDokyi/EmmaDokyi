@@ -23,4 +23,4 @@ Skills:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EmmaDokyi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/emmadokyi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/emmanuel-owusu-dokyi-4483bb198/)  
 
 
-[![EmmaDokyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmaDokyi&show_icons=true&theme=red)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmaDokyi&show_icons=true&theme=red)
