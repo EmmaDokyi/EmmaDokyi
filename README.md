@@ -6,13 +6,13 @@ I’m a data analyst from Ghana who loves to work on projects in food and agricu
 
 Skills:
 
-💻 Python | R
+💻 Python | R for data analysis and statistical modelling
 
-🔎SQL
+🔎SQL for data exploration and manipulation
 
-📊Power BI | Excel
+📊Power BI | Excel for Reporting and data visualisation
 
-🔎🌐Matomo
+🔎🌐Matomo for Web analytics
 
 - 🔭 I’m currently working on Carbon footprint reduction in food production  
 - 🌱 I’m currently learning R and French 
