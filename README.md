@@ -1,4 +1,3 @@
-
 #### Data Analyst| Production Efficiency and Sustainability Analyst
 ### Hi there 👋, Dokyi here!
 
