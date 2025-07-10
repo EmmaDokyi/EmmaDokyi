@@ -1,7 +1,7 @@
 #### Data Analyst| Production Efficiency and Sustainability Analyst
-### Hi there 👋, Dokyi here!
+### Hi 👋, Emmanuel here!
 
-I’m a data analyst from Ghana who loves to work on projects in food and agriculture, climate change, community and economic development. I am currently reading and learning on carbon footprint reduction in agriculture value chain from production to consumers to waste. My goal is to use my knowledge, skills and energy to solve life's challenging food problems in rural Africa. I love to read, travel and experience new cultures and people.
+I’m a data analyst from Ghana who loves to work on projects in food and agriculture, climate change, community and economic development. I am currently reading and learning on carbon footprint reduction in agriculture value chain from production to consumers to waste. My goal is to use my knowledge, skills and energy to solve life's challenging food problems in rural Africa. I love to read, travel and experience new cultures and people. Emmanuel Dokyi is a Data Analyst with a background in Agricultural Economics, passionate about transforming Africa's food industry, and driving meaningful change through building efficient production systems for small and medium scale businesses. He combines analytical thinking, empathy, and adaptability to create sustainable, data-driven solutions. Emmanuel belives in continuos learning and currently expanding his expertise through ALX’s Data Analytics program. 
 
 Skills:
 
