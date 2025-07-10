@@ -1,7 +1,7 @@
 #### Data Analyst| Production Efficiency and Sustainability Analyst
 ### Hi 👋, Emmanuel here!
 
-Emmanuel Dokyi is a Data Analyst with a background in Agricultural Economics, passionate about transforming Africa's food industry, and driving meaningful change through building efficient production systems for small and medium scale businesses. He combines analytical thinking, empathy, and adaptability to create sustainable, data-driven solutions. Emmanuel belives in continuos learning and currently expanding his expertise through ALX’s Data Analytics program. 
+Emmanuel Dokyi is a Data Analyst with a background in Agricultural Economics, passionate about transforming Africa’s food industry. He is committed to driving meaningful change by building efficient production systems for small and medium-scale businesses. Emmanuel combines analytical thinking, empathy, and adaptability to develop sustainable, data-driven solutions. A strong believer in continuous learning, he is currently advancing his expertise through the ALX Data Analytics program
 
 Skills:
 
