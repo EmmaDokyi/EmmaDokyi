@@ -13,10 +13,9 @@ Skills:
 
 🔎🌐Matomo for Web analytics
 
-- 🔭 I’m currently working on Carbon footprint reduction in food production  
-- 🌱 I’m currently learning R and French 
+- 🔭🌱 I’m currently learning the impact of Greenhouse gases on global food production 
 - 📫 Reach me on: emmadokyi@gmail.com and LinkedIn at www.linkedin.com/in/emmanuel-owusu-dokyi-4483bb198 
-- ⚡ Fun fact: I'm always ready to travel anywhere for the smallest reason  
+- ⚡ Fun fact: I'm ready to travel anywhere to try new food  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EmmaDokyi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/emmadokyi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/emmanuel-owusu-dokyi-4483bb198/)  
